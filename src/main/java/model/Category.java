@@ -12,7 +12,7 @@ public enum Category {
     LowPriority("Low priority", false, "border-info"),
     NoPriority("No priority", false, "");
 
-    private final String unusualName;
+    private final String fancyName;
 
     private final boolean defaultValue;
 
